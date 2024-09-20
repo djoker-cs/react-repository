@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.Section {
+  padding: 50px;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.project {
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.project h3 {
+  color: #61dafb;
+}
+
+.project h3:hover {
+  text-decoration: underline;
+}

@@ -5,7 +5,7 @@ import Section from './components/Section';
 const projects = [
   {
     title: 'Portfolio Website',
-    description: 'A personal portfolio built with React.',
+    description: 'A personal portfolio built with HTML.',
     details: 'This project showcases my work and skills. Built with HTML, it has a rough edged design.'
   },
   {
@@ -31,5 +31,5 @@ function App() {
   );
 }
 
-// Export the App component
+// reminder export
 export default App;
